@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewPagerDemo</string>
+    <string name="finish">Finish</string>
+    <string name="next">Next</string>
+</resources>
